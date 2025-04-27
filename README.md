@@ -2,6 +2,8 @@
 ### ✨ Petit site web perso, lieu de multiples tests ✨
 *(Pour le déployer sur Github, j'ai eu à appeler le repo "Camille-Fanguin.github.io")*
 
+**-> https://camille-fanguin.github.io/ <-**
+
 ## Contenu du site
 ### Accueil/Home
 Assez self explanatory, c'est l'endroit où on arrive de base
