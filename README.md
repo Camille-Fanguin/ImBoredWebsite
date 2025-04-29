@@ -1,8 +1,7 @@
 # I'm Bored
 ### ✨ Petit site web perso, lieu de multiples tests ✨
-*(Pour le déployer sur Github, j'ai eu à appeler le repo "Camille-Fanguin.github.io")*
 
-**-> http://im-bored.fr/ <-**
+## ---> http://im-bored.fr/ <---
 
 ## Contenu du site
 ### Accueil/Home
