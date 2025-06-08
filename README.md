@@ -5,7 +5,7 @@
 
 ## Contenu du site
 ### Accueil/Home
-C'est l'endroit où on arrive de base, avec en bas une zone où l'on peut y rentrer des codes secrets
+C'est l'endroit où on arrive de base
 
 ### À propos
 Petit résumé par rapport à ce projet, en bonus une archive montrant à quoi ressemblait le site lors de ses débuts
