@@ -14,10 +14,10 @@
 > Liens externes, majoritairement des sites, pour passer le temps
 
 ### Anubis Clicker
-> Clicker avec en vedette la grande Anubis, contient 11 succès à débloquer
+> Clicker avec en vedette la grande Anubis, contient des succès à débloquer
 
 ### BisbisBattle
-> Originalement un exercice à faire en classe, devenu un jeu à "part entière" au tour par tour, avec divers adversaires, et 10 succès à débloquer
+> Originalement un exercice à faire en classe, devenu un jeu à "part entière" au tour par tour, avec là aussi des succès à débloquer
 
 ### GuessGame
 > Petit jeu où il faut deviner si ce qui est présenté est un langage (de programmation ou de dev), un framework... ou aucune des 2 suggestions
