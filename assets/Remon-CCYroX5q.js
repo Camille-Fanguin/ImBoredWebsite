@@ -1,0 +1,1 @@
+import{_ as n,c as o,o as s,F as t,a as e}from"./index-x2_-YJ3g.js";const a="/assets/Remon-CeZCjmNe.jpg",c={},l=e("head",null,[e("title",null,"Remon")],-1),r=e("body",null,[e("h1",null,"Remon"),e("img",{src:a,alt:"Remon",class:"Remon"}),e("h3",null,"Chat :)")],-1);function _(m,u){return s(),o(t,null,[l,r],64)}const i=n(c,[["render",_]]);export{i as default};
