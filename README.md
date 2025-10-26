@@ -19,6 +19,9 @@
 ### BisbisBattle
 > Originalement un exercice à faire en classe, devenu un jeu à "part entière" au tour par tour, avec là aussi des succès à débloquer
 
+### Card Game
+> Un jeu de cartes à collectionner, oui comme Magic
+
 ### GuessGame
 > Petit jeu où il faut deviner si ce qui est présenté est un langage (de programmation ou de dev), un framework... ou aucune des 2 suggestions
 
