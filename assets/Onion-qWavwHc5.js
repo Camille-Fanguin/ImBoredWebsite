@@ -1,0 +1,1 @@
+import{_ as n,c as o,o as t,a as e}from"./index-CVJhv_Bk.js";const s="/assets/onion-DF5nWwKy.webp",c={},a=e("head",null,[e("meta",{charset:"UTF-8"}),e("title",null,"Onion")],-1),_=e("body",null,[e("img",{src:s,alt:"onion"})],-1),l=[a,_];function r(i,d){return t(),o("html",null,l)}const h=n(c,[["render",r]]);export{h as default};
